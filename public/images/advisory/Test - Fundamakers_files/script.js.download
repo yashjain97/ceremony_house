@@ -1,0 +1,82 @@
+$(document).ready(function(){
+    $('.modal').on('shown.bs.modal', function () {
+        FlipLogin(); // calling login flip after modal is shown
+    });
+
+    function FlipLogin() {
+        $('.login__new .login__change a').on("click", function(){
+            $('.login__old').show();
+            $('.login__new').hide();
+        })
+        $('.login__old .login__change a').on("click", function(){
+            $('.login__new').show();
+            $('.login__old').hide();
+        })
+    }
+    FlipLogin();
+
+    $('#js--sidebar-btn').on('click', function(){
+        $('.test__sidebar').toggleClass('test__sidebar--show');
+    });
+
+});
+
+(function testBtn() {
+ var actualTest = $('.test__actual');
+// test heading
+    $('#testBtn-ls').on("click", function(){
+        alert('Language Skills');
+    });
+    $('#testBtn-lr').on("click", function(){
+        alert('Logical Reasoning');
+    });
+    $('#testBtn-qs').on("click", function(){
+        alert('Quantitative Skills');
+    });
+
+// test buttons
+
+    $('#showBtn-qp').on("click", function(){
+        alert('Show Question Papers');
+    });
+    $('#showBtn-instr').on("click", function(){
+        alert('Show Instructions');
+    });
+    $('#showBtn-profile').on("click", function(){
+        alert('Show Profile');
+    });
+    $('#showBtn-nextS').on("click", function(){
+        alert('Show next section');
+    });
+
+    $('#showResult-sol').on("click", function(){
+        alert('Show Solution');
+    });
+    $('#showResult-graph').on("click", function(){
+        alert('Show Graph');
+    });
+    $('#showResult-stats').on("click", function(){
+        alert('Show Stats');
+    });
+    $('#showResult-bio').on("click", function(){
+        alert('Show Biology');
+    });
+
+    // accept input
+    $('#btnInput-mr').on("click", function(){
+        alert('Mark for Review and Next');
+    });
+    $('#btnInput-clear').on("click", function(){
+        alert('Clear');
+    });
+    $('#btnInput-save').on("click", function(){
+        alert('Save and Next');
+    });
+
+})();
+
+// sticking Test input buttons to bottom
+function stickyInput() {
+  $('#js--fixed-input').scrollToFixed( { bottom: 0, limit: $('footer').offset().top } );
+}
+

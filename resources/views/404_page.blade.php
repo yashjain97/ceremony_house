@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from html.univertheme.com/unievent/02_09_404_page.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 15 Apr 2018 13:32:54 GMT -->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Page</title>
+	<link rel="icon" href="images/favicon.png" type="image/x-icon"/>
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/lightgallery.min.css">
+	<link rel="stylesheet" href="css/datepicker.css">
+	<link rel="stylesheet" href="css/swiper.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body style="overflow:visible !important;">
+	<!-- loadpage -->
+	<div class="loadpage">
+		<div class="spinner">
+		  <div class="double-bounce1"></div>
+		  <div class="double-bounce2"></div>
+		</div>
+	</div>
+
+	<header class="site-header site2-header site3-header header-default header-sticky animated">
+		<div class="container-fluid">
+			<div class="site2-header1">
+				<div class="row">
+					<div class="col-md-2 fix-logo">
+						<div class="wrapper-logo">
+							<a href="index-2.html" class="logo-default"><img src="images/logo.png" alt="logo"/></a>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-md-push-6 fix-social">						
+				        <nav class="nav-social">
+				        	<ul>
+				        		<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+			                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+			                    <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+			                    <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+			                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+				        	</ul>
+				        </nav>
+
+
+						<nav class="main-cart">
+			                <ul class="nav-bar">
+			                    <li><a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i>
+									<span>2</span>
+			                    </a></li>
+			                </ul>
+				        </nav>
+
+				        <a href="#" class="buy-ticket">buy ticket now</a>
+					</div>
+
+					<div class="col-md-6 col-md-pull-4 fix-menu">
+						<div class="row">
+							<nav class="main-menu">
+				                <ul class="nav-bar">
+				                    <li><a href="#">home <i class="fa fa-angle-down" aria-hidden="true"></i> <i class="fa fa-angle-up" aria-hidden="true"></i></a>
+										<ul class="sub-menu animated fadeIn">
+											<li><a href="01_01_multievent.html">home - multievent</a></li>
+											<li><a href="01_02_tech_event.html">home - technology event</a></li>
+											<li><a href="01_03_music_event.html">home - music event</a></li>
+											<li><a href="01_04_business_event.html">home - business</a></li>
+											<li><a href="01_05_multievent_gradient.html">home - gradient</a></li>
+										</ul>
+				                    </li>
+				                    <li><a href="#">pages <i class="fa fa-angle-down" aria-hidden="true"></i> <i class="fa fa-angle-up" aria-hidden="true"></i></a>
+										<ul class="sub-menu animated fadeIn">
+											<li><a href="02_01_about.html">about</a></li>
+											<li><a href="02_02_FAQ.html">FAQ's</a></li>
+											<li><a href="02_03_contact.html">contact</a></li>
+											<li><a href="02_04_gallery.html">gallery</a></li>
+											<li><a href="02_05_speakers.html">speakers</a></li>
+											<li><a href="02_07_venues.html">venues</a></li>
+											<li><a href="02_08_venue_details.html">venue details</a></li>
+											<li><a href="02_09_404_page.html">404</a></li>
+										</ul>
+				                    </li>
+				                    <li><a href="#">events <i class="fa fa-angle-down" aria-hidden="true"></i> <i class="fa fa-angle-up" aria-hidden="true"></i></a>
+										<ul class="sub-menu animated fadeIn">
+											<li><a href="03_01_event_list.html">event list</a></li>
+											<li><a href="03_02_event_grid.html">event grid</a></li>
+											<li><a href="03_03_event_details_1.html">event details</a></li>
+											<li><a href="03_08_search_results.html">event search results</a></li>
+										</ul>
+				                    </li>
+				                    <li><a href="#">blog <i class="fa fa-angle-down" aria-hidden="true"></i> <i class="fa fa-angle-up" aria-hidden="true"></i></a>
+										<ul class="sub-menu animated fadeIn">
+											<li><a href="04_01_blog_list.html">blog list</a></li>
+											<li><a href="04_02_blog_grid.html">blog grid</a></li>
+											<li><a href="04_03_single_post.html">single post</a></li>
+
+										</ul>
+				                    </li>
+				                    <li><a href="#">shortcodes <i class="fa fa-angle-down" aria-hidden="true"></i> <i class="fa fa-angle-up" aria-hidden="true"></i></a>
+										<ul class="sub-menu animated fadeIn">
+											<li><a href="06_01_typography.html">typography</a></li>
+											<li><a href="06_04_color.html">color</a></li>
+										</ul>
+				                    </li>
+				                    <li><a href="#">shop <i class="fa fa-angle-down" aria-hidden="true"></i> <i class="fa fa-angle-up" aria-hidden="true"></i></a>
+										<ul class="sub-menu animated fadeIn">
+											<li><a href="05_01_shop.html">shop</a></li>
+											<li><a href="05_02_single_product.html">single product</a></li>
+											<li><a href="05_03_cart.html">cart</a></li>
+											<li><a href="05_04_checkout.html">checkout</a></li>
+										</ul>
+				                    </li>
+				                </ul>
+				                <ul class="nav-search">
+				                	 <li id="search-click"><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+										<!-- search home page -->
+						                <div class="search">
+				                            <div class="search-frm">
+				                                <form role="search" method="get" class="search-form" action="https://html.univertheme.com/unievent/action.php">
+													<input type="search" class="search-field" placeholder="search …" value="" name="s">
+													<button type="button" class="close-search"><i class="fa fa-close" aria-hidden="true"></i></button>
+								
+												<!-- 	<button type="submit" class="search-submit"><i class="fa fa-search" aria-hidden="true"></i></button> -->
+												</form>   
+											</div>	                                     
+				                        </div>
+				                    </li>
+				                </ul>
+					        </nav>
+						</div>
+						
+					</div>				
+				</div>
+
+				<div class="menu-hide">
+					<div class="row">
+						<ul>
+						 <!-- 	<li><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+		                    <li><a href="#"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+
+
+
+<!-- banner pages -->
+<div class="page-heading">
+	<h1 class="entry-title">404 Error</h1>
+
+	<ul class="entry-breadcrumb">
+		<li>Page Not Found!</li>
+	</ul>
+</div>
+
+<div id="main">
+	<div class="entry-content">
+		<!-- 404 error -->
+		<div class="entry-error">
+			<h2>404 Page Not Found!</h2>
+			<p>Sorry! The page you are looking for is not here!<br> Return the <a href="#">Homepage</a></p>
+			<img src="images/404.png" alt="404">
+		</div>
+	</div>
+</div>	
+
+
+
+
+
+	<footer id="footer">
+		<div class="container">
+			<div class="logo-footer">
+				<img src="images/logo.png" alt="">
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="icon-fo">
+						<i class="fa fa-phone" aria-hidden="true"></i>
+					</div>
+
+					<ul>
+						<li>Phone</li>
+						<li>0453 245 126 9</li>
+					</ul>
+
+				</div>
+				<div class="col-md-6">
+					<div class="icon-fo">
+						<i class="fa fa-map-marker" aria-hidden="true"></i>
+					</div>
+
+					<ul>
+						<li>address</li>
+						<li>45 Queen's Park Rd, Brighton, BN2 0GJ, UK</li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<div class="icon-fo">
+						<i class="fa fa-envelope" aria-hidden="true"></i>
+					</div>
+
+					<ul>
+						<li>email</li>
+						<li><a href="mailto:unievent@domain.com">unievent@domain.com</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="social-footer">
+				<ul> 
+					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-flickr" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-tumblr" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
+				</ul>
+			</div>
+
+			<div class="copyright">
+				<p>© Copyright 2017. All rights reserved. Design by <span>Univertemp</span></p>
+			</div>
+		</div>
+	</footer>
+
+	<div id="to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
+	
+
+
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap-datepicker.js"></script>
+	<script type="text/javascript" src="js/picturefill.min.js"></script>
+	<script type="text/javascript" src="js/lightgallery.min.js"></script>
+	<script type="text/javascript" src="js/lg-thumbnail.min.js"></script>
+	<script type="text/javascript" src="js/lg-autoplay.min.js"></script>
+	<script type="text/javascript" src="js/lg-fullscreen.min.js"></script>
+	<script type="text/javascript" src="js/lg-hash.min.js"></script>
+	<script type="text/javascript" src="js/lg-pager.min.js"></script>
+	<script type="text/javascript" src="js/lg-share.min.js"></script>
+	
+	<script type="text/javascript" src="js/lg-video.min.js"></script>
+	<script type="text/javascript" src="js/lg-zoom.min.js"></script>
+	
+	<script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
+	
+	<script type="text/javascript" src="js/swiper.min.js"></script>
+	<script type="text/javascript" src="js/wow.min.js"></script>
+	<script type="text/javascript" src="js/parallax.min.js"></script>
+	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="js/isotope.pkgd.min.js"></script>
+	
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+
+<!-- Mirrored from html.univertheme.com/unievent/02_09_404_page.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 15 Apr 2018 13:32:56 GMT -->
+</html>

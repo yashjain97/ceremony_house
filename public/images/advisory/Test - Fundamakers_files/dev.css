@@ -1,0 +1,11 @@
+/* write your CSS here
+ - for example: to overwrite navbar and footer color
+ - uncomment below codes and check
+*/
+
+.footer {
+    background-color: #fff !important;
+}
+.navbar {
+    background: #fff  !important;
+}
